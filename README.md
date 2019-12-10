@@ -3,7 +3,7 @@ This repo contains interview problems from leetcode. It is fun to solve them, th
 
 # LeetCode
 | #    | Name                                                       |Lanuage  | Status | Company   |
-|:----:|:----------------------------------------------------------:|:-------:|:------:|:---------:|
+|:-----|:-----------------------------------------------------------|:--------|:-------|:---------:|
 | 23   | Merge k Sorted Lists                                       | C++     | Done   | Facebook  |
 | 31   | Next Permutation                                           | C++     | Done   | Facebook  |
 | 42   | Trapping Rain Water                                        | C++     | Done   | Facebook  |
