@@ -1,9 +1,34 @@
 # Seeds
 This repo contains interview problems from leetcode. It is fun to solve them, they are just like sunflower seeds :)
 
+# Unknown sources
+| #    | Name                                                       |Lanuage  | Status | Company   |
+|:-----|:-----------------------------------------------------------|:--------|:-------|:----------|
+| 1    | N-th fibonacci number                                      |         |        | Yandex    |
+| 2    | Insert into sorted list                                    |         |        | Yandex    |
+| 3    | Sum on intervals                                           |         |        | Yandex    |
+| 4    | Merge iterator                                             |         |        | Yandex    |
+| 5    | Recover BST without node changings                         |         |        | Yandex    |
+| 6    | Find K closest in sorted array                             |         |        | Yandex    |
+| 7    | Two sum closest                                            |         |        | Yandex    |
+| 8    | Sum two numbers which are stored in list                   |         |        | Yandex    |
+| 9    | Is the number n = 3^k                                      |         |        | Yandex    |
+| 10   | Delete 0-s from vector                                     |         |        | Yandex    |
+| 11   | LCA with O(const) space                                    |         |        | Yandex    |
+| 12   | Hotel guests                                               |         |        | Yandex    |
+| 13   | Filter sorted numbers by other sorted numbers              |         |        | Yandex    |
+| 14   | Normalize spaces                                           |         |        | Yandex    |
+| 15   | Palindrome with O(const) space                             |         |        | Yandex    |
+| 16   | Reverse list                                               |         |        | Yandex    |
+| 17   | Users activity in sliding window                           |         |        | Yandex    |
+| 18   | Find 2 equal subtrees                                      |         |        | Yandex    |
+| 19   | Sum of elems of tree on some level                         |         |        | Yandex    |
+| 20   | Find substr in str without regard to order                 |         |        | Yandex    |
+| 21   | Amount of a, b, c : a + b + c equal givven x               |         |        | Yandex    |
+
 # LeetCode
 | #    | Name                                                       |Lanuage  | Status | Company   |
-|:-----|:-----------------------------------------------------------|:--------|:-------|:---------:|
+|:-----|:-----------------------------------------------------------|:--------|:-------|:----------|
 | 23   | Merge k Sorted Lists                                       | C++     | Done   | Facebook  |
 | 31   | Next Permutation                                           | C++     | Done   | Facebook  |
 | 42   | Trapping Rain Water                                        | C++     | Done   | Facebook  |
