@@ -1,7 +1,7 @@
 # Seeds
 This repo contains interview problems from leetcode. It is fun to solve them, they are just like sunflower seeds :)
 
-# Leet Code Solutions #
+# LeetCode
 | #    | Name                                                       |Lanuage  | Status | Company   |
 |:----:|:----------------------------------------------------------:|:-------:|:------:|:---------:|
 | 23   | Merge k Sorted Lists                                       | C++     | Done   | Facebook  |
