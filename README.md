@@ -10,7 +10,7 @@ This repo contains interview problems from leetcode. It is fun to solve them, th
 | 4    | Merge iterator                                             | C++     | LC23   | Yandex    |
 | 5    | Recover BST without node changings                         | C++     | Done   | Yandex    |
 | 6    | Find K closest in sorted array                             | C++     | LC658  | Yandex    |
-| 7    | Two sum closest                                            |         |        | Yandex    |
+| 7    | Two sum closest                                            | C++     | Done   | Yandex    |
 | 8    | Sum two numbers which are stored in list                   |         |        | Yandex    |
 | 9    | Is the number n = 3^k                                      |         |        | Yandex    |
 | 10   | Delete 0-s from vector                                     |         |        | Yandex    |
