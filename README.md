@@ -8,7 +8,7 @@ This repo contains interview problems from leetcode. It is fun to solve them, th
 | 2    | Insert into sorted list                                    | C++     | Done   | Yandex    |
 | 3    | Sum on intervals                                           | C++     | Done   | Yandex    |
 | 4    | Merge iterator                                             |         |        | Yandex    |
-| 5    | Recover BST without node changings                         |         |        | Yandex    |
+| 5    | Recover BST without node changings                         | C++     | Done   | Yandex    |
 | 6    | Find K closest in sorted array                             |         |        | Yandex    |
 | 7    | Two sum closest                                            |         |        | Yandex    |
 | 8    | Sum two numbers which are stored in list                   |         |        | Yandex    |
