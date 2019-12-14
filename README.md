@@ -9,7 +9,7 @@ This repo contains interview problems from leetcode. It is fun to solve them, th
 | 3    | Sum on intervals                                           | C++     | Done   | Yandex    |
 | 4    | Merge iterator                                             |         |        | Yandex    |
 | 5    | Recover BST without node changings                         | C++     | Done   | Yandex    |
-| 6    | Find K closest in sorted array                             |         |        | Yandex    |
+| 6    | Find K closest in sorted array                             | C++     | LC658  | Yandex    |
 | 7    | Two sum closest                                            |         |        | Yandex    |
 | 8    | Sum two numbers which are stored in list                   |         |        | Yandex    |
 | 9    | Is the number n = 3^k                                      |         |        | Yandex    |
@@ -69,6 +69,7 @@ This repo contains interview problems from leetcode. It is fun to solve them, th
 | 543  | Diameter of Binary Tree                                    | C++     | Done   | Facebook  |
 | 560  | Subarray Sum Equals K                                      | C++     | Done   | Facebook  |
 | 621  | Task Scheduler                                             |         |        | Facebook  |
+| 658  | Find K Closest Elements                                    | C++     | Done   | Yandex    |
 | 670  | Maximum Swap                                               |         |        | Facebook  |
 | 680  | Valid Palindrome II                                        |         |        | Facebook  |
 | 721  | Accounts Merge                                             |         |        | Facebook  |
