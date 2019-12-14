@@ -7,7 +7,7 @@ This repo contains interview problems from leetcode. It is fun to solve them, th
 | 1    | N-th fibonacci number                                      | C++     | Done   | Yandex    |
 | 2    | Insert into sorted list                                    | C++     | Done   | Yandex    |
 | 3    | Sum on intervals                                           | C++     | Done   | Yandex    |
-| 4    | Merge iterator                                             |         |        | Yandex    |
+| 4    | Merge iterator                                             | C++     | LC23   | Yandex    |
 | 5    | Recover BST without node changings                         | C++     | Done   | Yandex    |
 | 6    | Find K closest in sorted array                             | C++     | LC658  | Yandex    |
 | 7    | Two sum closest                                            |         |        | Yandex    |
