@@ -15,9 +15,9 @@ This repo contains interview problems from leetcode. It is fun to solve them, th
 | 9    | Is the number n = 3^k                                      |         |        | Yandex    |
 | 10   | Delete 0-s from vector                                     | C++     | Done   | Yandex    |
 | 11   | LCA with O(const) space                                    | C++     | Done   | Yandex    |
-| 12   | Hotel guests                                               |         |        | Yandex    |
-| 13   | Filter sorted numbers by other sorted numbers              |         |        | Yandex    |
-| 14   | Normalize spaces                                           |         |        | Yandex    |
+| 12   | Hotel guests                                               | C++     | Done   | Yandex    |
+| 13   | Filter sorted numbers by other sorted numbers              | C++     | Done   | Yandex    |
+| 14   | Normalize spaces                                           | C++     | Done   | Yandex    |
 | 15   | Palindrome with O(const) space                             |         |        | Yandex    |
 | 16   | Reverse list                                               |         |        | Yandex    |
 | 17   | Users activity in sliding window                           |         |        | Yandex    |
