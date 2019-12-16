@@ -14,7 +14,7 @@ This repo contains interview problems from leetcode. It is fun to solve them, th
 | 8    | Sum two numbers which are stored in list                   | C++     | Done   | Yandex    |
 | 9    | Is the number n = 3^k                                      |         |        | Yandex    |
 | 10   | Delete 0-s from vector                                     | C++     | Done   | Yandex    |
-| 11   | LCA with O(const) space                                    |         |        | Yandex    |
+| 11   | LCA with O(const) space                                    | C++     | Done   | Yandex    |
 | 12   | Hotel guests                                               |         |        | Yandex    |
 | 13   | Filter sorted numbers by other sorted numbers              |         |        | Yandex    |
 | 14   | Normalize spaces                                           |         |        | Yandex    |
