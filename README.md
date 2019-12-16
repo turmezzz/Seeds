@@ -20,7 +20,7 @@ This repo contains interview problems from leetcode. It is fun to solve them, th
 | 14   | Normalize spaces                                           | C++     | Done   | Yandex    |
 | 15   | Palindrome with O(const) space                             |         |        | Yandex    |
 | 16   | Reverse list                                               |         |        | Yandex    |
-| 17   | Users activity in sliding window                           |         |        | Yandex    |
+| 17   | Users activity in sliding window                           | C++     | Done   | Yandex    |
 | 18   | Find 2 equal subtrees                                      |         |        | Yandex    |
 | 19   | Sum of elems of tree on some level                         |         |        | Yandex    |
 | 20   | Find substr in str without regard to order                 |         |        | Yandex    |
