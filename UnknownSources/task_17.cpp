@@ -90,6 +90,24 @@ int main() {
         sol.RegisterEvent(13, 5);
         cout << (sol.Query(0, 1000) == 3)<< endl;
     }
+    {
+        TEventsStats sol;
+        sol.RegisterEvent(10, 1);
+        sol.RegisterEvent(11, 2);
+        sol.RegisterEvent(12, 3);
+        sol.RegisterEvent(13, 4);
+        sol.RegisterEvent(14, 5);
+        sol.RegisterEvent(15, 6);
+        sol.RegisterEvent(16, 7);
+        sol.RegisterEvent(17, 8);
+        sol.RegisterEvent(18, 9);
+        sol.RegisterEvent(19, 10);
+        sol.RegisterEvent(20, 11);
+        sol.RegisterEvent(21, 12);
+        sol.RegisterEvent(22, 13);
+
+        cout << (sol.Query(0, 1000) == 13)<< endl;
+    }
 
 
     return 0;
