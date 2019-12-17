@@ -23,7 +23,7 @@ This repo contains interview problems from leetcode. It is fun to solve them, th
 | 17   | Users activity in sliding window                           | C++     | Done   | Yandex    |
 | 18   | Find 2 equal subtrees                                      |         |        | Yandex    |
 | 19   | Sum of elems of tree on some level                         |         |        | Yandex    |
-| 20   | Find substr in str without regard to order                 |         |        | Yandex    |
+| 20   | Find substr in str without regard to order                 | C++     | Done   | Yandex    |
 | 21   | Amount of a, b, c : a + b + c equal givven x               |         |        | Yandex    |
 
 # LeetCode
