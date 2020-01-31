@@ -33,6 +33,7 @@
 
 # Folders
 .DS_Store
+.idea
 
 # CMake
 /Interviews/.gitignore
