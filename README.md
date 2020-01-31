@@ -1,8 +1,8 @@
 # Seeds
 This repo contains interview problems from leetcode. It is fun to solve them, they are just like sunflower seeds :)
 
-# Unknown sources
-| #    | Name                                                       |Lanuage  | Status | Company   |
+# Problems from my interviews
+| #    | Name                                                       |Language  | Status | Company   |
 |:-----|:-----------------------------------------------------------|:--------|:-------|:----------|
 | 1    | N-th fibonacci number                                      | C++     | Done   | Yandex    |
 | 2    | Insert into sorted list                                    | C++     | Done   | Yandex    |
@@ -27,7 +27,7 @@ This repo contains interview problems from leetcode. It is fun to solve them, th
 | 21   | Amount of a, b, c : a + b + c equal givven x               |         |        | Yandex    |
 
 # LeetCode
-| #    | Name                                                       |Lanuage  | Status | Company   |
+| #    | Name                                                       |Language  | Status | Company   |
 |:-----|:-----------------------------------------------------------|:--------|:-------|:----------|
 | 23   | Merge k Sorted Lists                                       | C++     | Done   | Facebook  |
 | 31   | Next Permutation                                           | C++     | Done   | Facebook  |
