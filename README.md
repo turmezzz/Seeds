@@ -1,5 +1,5 @@
 # Seeds
-This repo contains interview problems from leetcode. It is fun to solve them, they are just like sunflower seeds :)
+This repo contains problems that I've been asked on interviews, some problems are from leetcode and other sources.
 
 # Problems from my interviews
 | #    | Name                                                       |Language  | Status | Company   |
