@@ -19,7 +19,7 @@ This repo contains problems that I've been asked on interviews, some problems ar
 | 13   | Filter sorted numbers by other sorted numbers              | C++     | Done   | Yandex    |
 | 14   | Normalize spaces                                           | C++     | Done   | Yandex    |
 | 15   | Palindrome with O(const) space                             | C++     | Done   | Yandex    |
-| 16   | Reverse list                                               |         |        | Yandex    |
+| 16   | Reverse list                                               | C++     | Done   | Yandex    |
 | 17   | Users activity in sliding window                           | C++     | Done   | Yandex    |
 | 18   | Find 2 equal subtrees                                      |         |        | Yandex    |
 | 19   | Sum of elems of tree on some level                         |         |        | Yandex    |
