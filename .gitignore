@@ -37,6 +37,7 @@
 cmake-build-debug
 
 # CMake
+CMakeLists.txt
 /Interviews/.gitignore
 /Interviews/cmake-build-debug/CMakeCache.txt
 /Interviews/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake
