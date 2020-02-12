@@ -2,7 +2,7 @@
 This repo contains problems that I've been asked on interviews, some problems are from leetcode and other sources.
 
 # Problems from my interviews
-| #    | Name                                                       |Language  | Status | Company   |
+| #    | Name                                                       |Language  | Status | Company  |
 |:-----|:-----------------------------------------------------------|:--------|:-------|:----------|
 | 1    | N-th fibonacci number                                      | C++     | Done   | Yandex    |
 | 2    | Insert into sorted list                                    | C++     | Done   | Yandex    |
@@ -27,7 +27,7 @@ This repo contains problems that I've been asked on interviews, some problems ar
 | 21   | Amount of a, b, c : a + b + c equal givven x               |         |        | Yandex    |
 
 # LeetCode
-| #    | Name                                                       |Language  | Status | Company   |
+| #    | Name                                                       |Language  | Status | Company  |
 |:-----|:-----------------------------------------------------------|:--------|:-------|:----------|
 | 23   | Merge k Sorted Lists                                       | C++     | Done   | Facebook  |
 | 31   | Next Permutation                                           | C++     | Done   | Facebook  |
