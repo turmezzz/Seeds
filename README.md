@@ -21,7 +21,7 @@ This repo contains problems that I've been asked on interviews, some problems ar
 | 15   | Palindrome with O(const) space                             | C++     | Done   | Yandex    |
 | 16   | Reverse list                                               | C++     | Done   | Yandex    |
 | 17   | Users activity in sliding window                           | C++     | Done   | Yandex    |
-| 18   | Find 2 equal subtrees                                      |         |        | Yandex    |
+| 18   | Find 2 equal subtrees                                      | C++     | Done   | Yandex    |
 | 19   | Sum of elems of tree on some level                         |         |        | Yandex    |
 | 20   | Find substr in str without regard to order                 | C++     | Done   | Yandex    |
 | 21   | Amount of a, b, c : a + b + c equal givven x               |         |        | Yandex    |
