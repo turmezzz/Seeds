@@ -1,5 +1,10 @@
 # Seeds
-This repo contains problems that I've been asked on interviews, some problems are from leetcode and other sources.
+This repo contains interview problems.
+
+# Cracking the coding interview
+| #    | Topic                                                      |Language | Chapter | Amount |
+|:-----|:-----------------------------------------------------------|:--------|:--------|:-------|
+| 1    | Arrays and Strings                                         | C++     | 1       | 7/9    |
 
 # Problems from my interviews
 | #    | Name                                                       |Language  | Status | Company  |
