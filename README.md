@@ -29,7 +29,7 @@ This repo contains interview problems.
 | 18   | Find 2 equal subtrees                                      | C++     | Done   | Yandex    |
 | 19   | Sum of elems of tree on some level                         |         |        | Yandex    |
 | 20   | Find substr in str without regard to order                 | C++     | Done   | Yandex    |
-| 21   | Amount of a, b, c : a + b + c equal givven x               |         |        | Yandex    |
+| 21   | Amount of a, b, c : a + b + c equal given x                |         |        | Yandex    |
 
 # LeetCode
 | #    | Name                                                       |Language  | Status | Company  |
