@@ -2,9 +2,10 @@
 This repo contains interview problems.
 
 # Cracking the coding interview
-| #    | Topic                                                      |Language | Chapter | Amount |
-|:-----|:-----------------------------------------------------------|:--------|:--------|:-------|
-| 1    | Arrays and Strings                                         | C++     | 1       | 7/8    |
+| #    | Topic                                                      |Language | Chapter | Amount   |
+|:-----|:-----------------------------------------------------------|:--------|:--------|:---------|
+| 1    | Arrays and Strings                                         | C++     | 1       | 7/8      |
+| 1    | Linked Lists                                               | C++     | 2       | 1/7      |
 
 # Problems from my interviews
 | #    | Name                                                       |Language  | Status | Company  |
