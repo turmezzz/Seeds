@@ -1,8 +1,6 @@
 //
 // Partition linked list around value x
 //
-// I can do it with forward list but I need O(n^2) for now
-//
 
 #include <iostream>
 #include <vector>
@@ -15,35 +13,40 @@ struct Node {
     Node* prev_d = nullptr;
 };
 
-void Partition(Node* head, int x) {
+pair <Node*, Node*> Partition(Node* head, int x) {
     if (not head) {
-        return;
+        return {nullptr, nullptr};
     }
-    Node* left = head;
-    Node* right = head;
-    for (; right; right = right->next_d) {
-        if (not right->next_d) {
+    Node* preHead = new Node();
+    Node* doNotForgetDoDelete = preHead;
+    preHead->next_d = head;
+
+    Node* last = head;
+    int length = 0;
+    for (; last; last = last->next_d) {
+        ++length;
+        if (not last->next_d) {
             break;
         }
     }
 
-    while (left and right) {
-        while (left and left->value_d < x) {
-            left = left->next_d;
+    while (length != 0) {
+        --length;
+        while (preHead != last and preHead->next_d->value_d <= x) {
+            preHead = preHead->next_d;
         }
-        while (right and right->value_d > x) {
-            right = right->prev_d;
-        }
-        if (left and right) {
-            bool needToStop = (left->next_d == right);
-            swap(left->value_d, right->value_d);
-            left = left->next_d;
-            right = right->prev_d;
-            if (left == right or needToStop) {
-                break;
-            }
+        if (preHead != last) {
+            Node* box = preHead->next_d->next_d ? preHead->next_d->next_d : nullptr;
+            preHead->next_d->next_d = nullptr;
+            last->next_d = preHead->next_d;
+            preHead->next_d = box;
+            last = last->next_d;
         }
     }
+
+    Node* box = doNotForgetDoDelete->next_d;
+    delete doNotForgetDoDelete;
+    return {box, preHead->next_d}; // new head, begin of > x nodes
 }
 
 bool Test() {
@@ -75,7 +78,8 @@ bool Test() {
         a4->value_d = 3;
 
         vector <int> data = {1, 2, 3, 5, 7};
-        Partition(a0, 4);
+        auto box = Partition(a0, 4);
+        a0 = box.first;
         Node* it = a0;
         for (int v : data) {
             if (v != it->value_d) {
@@ -115,7 +119,8 @@ bool Test() {
         a4->value_d = 3;
 
         vector <int> data = {1, 2, 7, 5, 3};
-        Partition(a0, 10);
+        auto box = Partition(a0, 10);
+        a0 = box.first;
         Node* it = a0;
         for (int v : data) {
             if (v != it->value_d) {
@@ -151,8 +156,9 @@ bool Test() {
         a4->next_d = nullptr;
         a4->value_d = 1;
 
-        vector <int> data = {1, 2, 3, 4, 5};
-        Partition(a0, 3);
+        vector <int> data = {3, 2, 1, 4, 5};
+        auto box = Partition(a0, 3);
+        a0 = box.first;
         Node* it = a0;
         for (int v : data) {
             if (v != it->value_d) {
