@@ -5,7 +5,7 @@ This repo contains interview problems.
 | #    | Topic                                                      |Language | Chapter | Amount   |
 |:-----|:-----------------------------------------------------------|:--------|:--------|:---------|
 | 1    | Arrays and Strings                                         | C++     | 1       | 7/8      |
-| 1    | Linked Lists                                               | C++     | 2       | 6/7      |
+| 1    | Linked Lists                                               | C++     | 2       | 7/7      |
 
 # Problems from my interviews
 | #    | Name                                                       |Language  | Status | Company  |
