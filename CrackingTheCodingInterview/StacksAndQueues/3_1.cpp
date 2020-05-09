@@ -1,3 +1,7 @@
+//
+// 3 stacks on 1 array
+//
+
 #include <iostream>
 #include <vector>
 
