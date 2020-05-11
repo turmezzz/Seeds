@@ -6,7 +6,7 @@ This repo contains interview problems.
 |:-----|:-----------------------------------------------------------|:--------|:--------|:---------|
 | 1    | Arrays and Strings                                         | C++     | 1       | 7/8      |
 | 2    | Linked Lists                                               | C++     | 2       | 7/7      |
-| 3    | Stacks and Queues                                          | C++     | 3       | 2/7      |
+| 3    | Stacks and Queues                                          | C++     | 3       | 4/7      |
 
 # Problems from my interviews
 | #    | Name                                                       |Language | Status | Company   |
