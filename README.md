@@ -34,6 +34,7 @@ This repo contains interview problems.
 | 20   | Find substr in str without regard to order                 | C++     | Done   | Yandex    |
 | 21   | Amount of a, b, c : a + b + c equal given x                |         |        | Yandex    |
 | 22   | Find max sequence of ones                                  | C++     | Done   | Yandex    |
+| 22   | Find amount of unique users                                | C++     | Done   | Yandex    |
 
 # LeetCode
 | #    | Name                                                       |Language | Status | Company   |
