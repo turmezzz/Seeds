@@ -8,7 +8,7 @@ This repo contains interview problems.
 | 2    | Linked Lists                                               | C++     | 2       | 7 / 7    |
 | 3    | Stacks and Queues                                          | C++     | 3       | 6 / 7    |
 | 4    | Trees and Graphs                                           | C++     | 4       | 9 / 9    |
-| 5    | Bit Manipulation                                           | C++     | 5       | 1 / 9    |
+| 5    | Bit Manipulation                                           | C++     | 5       | 2 / 9    |
 
 # Problems from my interviews
 | #    | Name                                                       |Language | Status | Company   |
