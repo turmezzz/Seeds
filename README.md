@@ -2,14 +2,14 @@
 This repo contains interview problems.
 
 # Cracking the coding interview
-| #    | Topic                                                      |Language | Chapter | Amount   |
+| #    | Topic                                                      |Language | Chapter | Progress |
 |:-----|:-----------------------------------------------------------|:--------|:--------|:---------|
 | 1    | Arrays and Strings                                         | C++     | 1       | 7 / 8    |
 | 2    | Linked Lists                                               | C++     | 2       | 7 / 7    |
 | 3    | Stacks and Queues                                          | C++     | 3       | 6 / 7    |
 | 4    | Trees and Graphs                                           | C++     | 4       | 9 / 9    |
 | 5    | Bit Manipulation                                           | C++     | 5       | 8 / 8    |
-| 6    | BrainTeasers                                               | Natural | 6       | 1 / 6    |
+| 6    | BrainTeasers                                               | Natural | 6       | 2 / 6    |
 
 # Problems from my interviews
 | #    | Name                                                       |Language | Status | Company   |
