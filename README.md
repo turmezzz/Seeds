@@ -37,6 +37,12 @@ This repo contains interview problems.
 | 21   | Amount of a, b, c : a + b + c equal given x                |         |        | Yandex    |
 | 22   | Find max sequence of ones                                  | C++     | Done   | Yandex    |
 | 22   | Find amount of unique users                                | C++     | Done   | Yandex    |
+| 23   | Calculate time of images processing                        | C++     | Done   | PicsArt   |
+| 24   | Find ids of mixed substr                                   | C++     | Done   | Yandex    |
+| 25   | RLECompression                                             | C++     | Done   | Yandex    |
+| 26   | ReverseWord                                                | C++     | Done   | Yandex    |
+| 27   | ZoomLine                                                   | C++     | Done   | Yandex    |
+| 28   | Find ids of mixed substr with 2 mistakes                   | C++     | Done   | Yandex    |
 
 # LeetCode
 | #    | Name                                                       |Language | Status | Company   |
