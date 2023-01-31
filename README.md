@@ -12,38 +12,39 @@ This repo contains interview problems.
 | 6    | BrainTeasers                                               | Natural | 6       | 4 / 6    |
 
 # Problems from my interviews
-| #   | Name                                                   |Language | Status | Company   |
-|:----|:-------------------------------------------------------|:--------|:-------|:----------|
-| 1   | N-th fibonacci number                                  | C++     | Done   | Yandex    |
-| 2   | Insert into sorted list                                | C++     | Done   | Yandex    |
-| 3   | Sum on intervals                                       | C++     | Done   | Yandex    |
-| 4   | Merge iterator                                         | C++     | LC23   | Yandex    |
-| 5   | Recover BST without node changings                     | C++     | Done   | Yandex    |
-| 6   | Find K closest in sorted array                         | C++     | LC658  | Yandex    |
-| 7   | Two sum closest                                        | C++     | Done   | Yandex    |
-| 8   | Sum two numbers which are stored in list               | C++     | Done   | Yandex    |
-| 9   | Is the number n = 3^k                                  | C++     | Done   | Yandex    |
-| 10  | Delete 0-s from vector                                 | C++     | Done   | Yandex    |
-| 11  | LCA with O(const) space                                | C++     | Done   | Yandex    |
-| 12  | Hotel guests                                           | C++     | Done   | Yandex    |
-| 13  | Filter sorted numbers by other sorted numbers          | C++     | Done   | Yandex    |
-| 14  | Normalize spaces                                       | C++     | Done   | Yandex    |
-| 15  | Palindrome with O(const) space                         | C++     | Done   | Yandex    |
-| 16  | Reverse list                                           | C++     | Done   | Yandex    |
-| 17  | Users activity in sliding window                       | C++     | Done   | Yandex    |
-| 18  | Find 2 equal subtrees                                  | C++     | Done   | Yandex    |
-| 19  | Sum of elems of tree on some level                     |         |        | Yandex    |
-| 20  | Find substr in str without regard to order             | C++     | Done   | Yandex    |
-| 21  | Amount of a, b, c : a + b + c equal given x            |         |        | Yandex    |
-| 22  | Find max sequence of ones                              | C++     | Done   | Yandex    |
-| 22  | Find amount of unique users                            | C++     | Done   | Yandex    |
-| 23  | Calculate time of images processing                    | C++     | Done   | PicsArt   |
-| 24  | Find ids of mixed substr                               | C++     | Done   | Yandex    |
-| 25  | RLECompression                                         | C++     | Done   | Yandex    |
-| 26  | ReverseWord                                            | C++     | Done   | Yandex    |
-| 27  | ZoomLine                                               | C++     | Done   | Yandex    |
-| 28  | Find ids of mixed substr with 2 mistakes               | C++     | Done   | Yandex    |
-| 29  | Delete zeros from vector without messing other numbers | C++     | Done   | Dzen Sber |
+| #   | Name                                                   |Language | Status | Company     |
+|:----|:-------------------------------------------------------|:--------|:-------|:------------|
+| 1   | N-th fibonacci number                                  | C++     | Done   | Yandex      |
+| 2   | Insert into sorted list                                | C++     | Done   | Yandex      |
+| 3   | Sum on intervals                                       | C++     | Done   | Yandex      |
+| 4   | Merge iterator                                         | C++     | LC23   | Yandex      |
+| 5   | Recover BST without node changings                     | C++     | Done   | Yandex      |
+| 6   | Find K closest in sorted array                         | C++     | LC658  | Yandex      |
+| 7   | Two sum closest                                        | C++     | Done   | Yandex      |
+| 8   | Sum two numbers which are stored in list               | C++     | Done   | Yandex      |
+| 9   | Is the number n = 3^k                                  | C++     | Done   | Yandex      |
+| 10  | Delete 0-s from vector                                 | C++     | Done   | Yandex      |
+| 11  | LCA with O(const) space                                | C++     | Done   | Yandex      |
+| 12  | Hotel guests                                           | C++     | Done   | Yandex      |
+| 13  | Filter sorted numbers by other sorted numbers          | C++     | Done   | Yandex      |
+| 14  | Normalize spaces                                       | C++     | Done   | Yandex      |
+| 15  | Palindrome with O(const) space                         | C++     | Done   | Yandex      |
+| 16  | Reverse list                                           | C++     | Done   | Yandex      |
+| 17  | Users activity in sliding window                       | C++     | Done   | Yandex      |
+| 18  | Find 2 equal subtrees                                  | C++     | Done   | Yandex      |
+| 19  | Sum of elems of tree on some level                     |         |        | Yandex      |
+| 20  | Find substr in str without regard to order             | C++     | Done   | Yandex      |
+| 21  | Amount of a, b, c : a + b + c equal given x            |         |        | Yandex      |
+| 22  | Find max sequence of ones                              | C++     | Done   | Yandex      |
+| 22  | Find amount of unique users                            | C++     | Done   | Yandex      |
+| 23  | Calculate time of images processing                    | C++     | Done   | PicsArt     |
+| 24  | Find ids of mixed substr                               | C++     | Done   | Yandex      |
+| 25  | RLECompression                                         | C++     | Done   | Yandex      |
+| 26  | ReverseWord                                            | C++     | Done   | Yandex      |
+| 27  | ZoomLine                                               | C++     | Done   | Yandex      |
+| 28  | Find ids of mixed substr with 2 mistakes               | C++     | Done   | Yandex      |
+| 29  | Delete zeros from vector without messing other numbers | C++     | Done   | Dzen Sber   |
+| 30  | Eval expression                                        | C++     | Done   | Alber Blanc |
 
 # LeetCode
 | #    | Name                                                       |Language | Status | Company  |
